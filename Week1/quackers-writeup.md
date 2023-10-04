@@ -23,7 +23,7 @@ Also known as a `BadUSB`, a rubber ducky is any usb-enabled device that can emul
 ---
 | Step | Explination | Corresponding Discord Gif |
 |:---|:---|:---|
-| 1 | Write the code in DuckyScript:tm: | ![](https://tenor.com/view/how-to-clean-cpu-gif-23585180) |
+| 1 | Write the code in DuckyScript:tm: | ![]((https://github.com/Probot639/quackpack/blob/main/Week1/how-to-clean-cpu.gif)) |
 
 
 ## Post-writing chatgpt qna session
