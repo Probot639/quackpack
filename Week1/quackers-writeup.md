@@ -9,6 +9,15 @@ Also known as a `BadUSB`, a rubber ducky is any usb-enabled device that can emul
 
 ## How are they used?
 ---
+- Maliciously 😈
+- To run any command on a target machine
+- To install malicious software
+- To install backdoors that can be remotely accessed later
+- To play funny discord gifs on the screen that you cannot get rid of
+- To steal session tokens from websites and use them to login and steal things
+- To be cringe
+- To take remote access of machines
+- TODO dox someone and put their address here (do not leave this in)
 
 ## High level overview of how they work
 ---
