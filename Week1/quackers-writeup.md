@@ -17,14 +17,19 @@ Also known as a `BadUSB`, a rubber ducky is any usb-enabled device that can emul
 - To steal session tokens from websites and use them to login and steal things
 - To be cringe
 - To take remote access of machines
-- TODO dox someone and put their address here (do not leave this in)
 
 ## High level overview of how they work
 ---
-| Step | Explination | Corresponding Discord Gif |
+| Step | Explanation | thematically appropriate discord gif |
 |:---|:---|:---|
-| 1 | Write the code in DuckyScript:tm: | ![]((https://github.com/Probot639/quackpack/blob/main/Week1/how-to-clean-cpu.gif)) |
-
+| 1 | Write the code in DuckyScript:tm: |<img src="https://github.com/Probot639/quackpack/assets/67206372/e71a6459-1df6-4d0d-954c-2b00d5e18706" alt="CPU" width="250"/> |
+| 2 | The code gets turned into keystroke commands | <img src="https://github.com/Probot639/quackpack/assets/67206372/3f974086-013f-4d4d-80e2-2c45a43f0b73" alt="transformer" width="250"/> |
+| 3 | The Peksy Pelican:tm: goes live | <img src="https://github.com/Probot639/quackpack/assets/67206372/4c0c3566-fb13-48df-a120-6759e3e5645d" alt="birb :3" width="250"/> |
+| 4 | The Peksy Pelican:tm: gets plugged into a computer | <img src="https://github.com/Probot639/quackpack/assets/67206372/a33c75be-5877-4e8b-b97b-4c8da75e978d" alt="eat" width="250"/> |
+| 5 | All the keystrokes are sent | <img src="https://github.com/Probot639/quackpack/assets/67206372/7ea30d26-4cf6-43c0-af2f-64d133c13d4d" alt="typing" width="250"/> |
+| 6 | All of the target's cryptocurrency is yours | <img src="https://github.com/Probot639/quackpack/assets/67206372/4c82ce54-12dd-4430-afeb-aec17eebf9db" alt="steal" width="250"/> |
 
 ## Post-writing chatgpt qna session
 ---
+<img src="https://github.com/Probot639/quackpack/assets/67206372/282d8968-c2f4-49ee-a7f7-195142f3789b" alt="drawing" width="500"/>
+
